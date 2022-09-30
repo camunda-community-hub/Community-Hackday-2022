@@ -12,7 +12,7 @@ It is all about Camunda 8. There are 3 categories to choose from:
 ## Integration challenge
 The main focus for this category is to integrate Camunda 8 with another technology. Your process can be quite simple. The main focus will be on the implementation of the [job worker](https://docs.camunda.io/docs/components/concepts/job-workers/). 
 
-[<img src="img/01-integration.png" width="250"/>](Integration)
+[<img src="img/01-integration-invert.png" width="350"/>](Integration)
 
 - Use one of the existing [clients](https://docs.camunda.io/docs/apis-clients/working-with-apis-clients/)
 - Connect to the technology (code the logic)
@@ -24,7 +24,7 @@ The main focus for this category is to extend Camunda 8.
 ### Connectors
 Build a [custom connector](https://docs.camunda.io/docs/components/integration-framework/connectors/custom-built-connectors/connector-sdk/#creating-a-custom-connector). At the moment we offer a Connector SDK for Java. So it is a good idea to have some Java knowledge to choose this challenge. 
 
-[<img src="img/02-Connector.png" width="100"/>](Connector)
+[<img src="img/02-Connector-invert.png" width="100"/>](Connector)
 
 
 - Choose a technology to build a connector (e.g.: [GithubAPI](https://docs.github.com/en/rest), RabittMQ or find something [here](https://free-for.dev/#/) )
@@ -37,7 +37,7 @@ Build a custom [Tasklist using GraphQL](https://docs.camunda.io/docs/apis-client
 
 
 
-[<img src="img/02-customTasklist.png" width="250"/>](CustomTasklist)
+[<img src="img/02-customTasklist-invert.png" width="350"/>](CustomTasklist)
 
 
 - Build an own Frontend for Users
@@ -48,7 +48,7 @@ Build a custom [Tasklist using GraphQL](https://docs.camunda.io/docs/apis-client
 ## No code challenge
 The main focus is to implement and automate a process in Camunda 8 without the need to run any extra code. For this challenge your main friends will be [FEEL](https://docs.camunda.io/docs/components/modeler/feel/what-is-feel/) and [Camunda's out-of-the-box Connectors](https://docs.camunda.io/docs/components/integration-framework/connectors/use-connectors/). 
 
-![No Code](img/03-NoCode.png)
+![No Code](img/03-NoCode-invert.png)
 
 - Use as many of the out-of-the-box connectors
 - Create complex Feel expressions
